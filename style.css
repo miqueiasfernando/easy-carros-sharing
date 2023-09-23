@@ -1,0 +1,20 @@
+/*Paleta de Cores*/
+:root {
+    --ocean-blue: #0CDAC3;
+    --marine-blue: #31425A;
+    --gray: #D9D9D9;
+    --red: #E97272;
+    --yellow: #F4CD00;
+}
+
+.bg-marine-blue{
+    background-color: var(--marine-blue);
+}
+
+.bg-ocean-blue{
+    background-color: var(--ocean-blue);
+}
+
+.logo{
+    height: 60px;
+}
